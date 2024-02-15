@@ -33,7 +33,7 @@ export function AdvancedDetail({ data }: Props) {
           sx={{
             fontWeight: "bold",
             cursor: "pointer",
-            color: "#ffe873",
+            color: "#00F58C",
             textDecoration: "underline",
           }}
         >

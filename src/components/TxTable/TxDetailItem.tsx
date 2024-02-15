@@ -152,9 +152,9 @@ export const TxDetailItem = ({
       sx={{
         "&.Mui-expanded": {
           border: "1px solid",
-          borderColor: "#FFE873",
+          borderColor: "#00F58C",
           borderRadius: "0.2rem",
-          background: "#ffe87326",
+          background: "#00F58C26",
         },
       }}
     >

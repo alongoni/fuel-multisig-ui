@@ -31,7 +31,7 @@ export const AddressBookContainer = ({ network }: Props) => {
         </Typography>
         <ButtonBase
           sx={{
-            color: "#FFE873",
+            color: "#00F58C",
             fontSize: "1rem",
             fontWeight: "800",
           }}

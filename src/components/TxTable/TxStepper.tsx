@@ -276,7 +276,7 @@ export default function TxStepper({
               sx={{
                 fontWeight: "bold",
                 cursor: "pointer",
-                color: "#ffe873",
+                color: "#00F58C",
                 textDecoration: "underline",
               }}
               onClick={() => setShowOwners(!showOwners)}
