@@ -106,7 +106,7 @@ export const NetworkBoxStyled = styled(Box)<BoxProps>(() => ({
 
 export const StyledButton = styled(Button)<ButtonProps>(() => ({
   backgroundColor: "#1a1a1a",
-  color: "#FFE873",
+  color: "#00F58C",
   borderRadius: "0px 0px 8px 8px",
   width,
 }));
